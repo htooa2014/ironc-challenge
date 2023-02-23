@@ -1,0 +1,4 @@
+D:\Personal\Learning\ironc#challenge\IronCSharpChallenge\IronCSharpChallenge\bin\Debug\IronCSharpChallenge.exe
+D:\Personal\Learning\ironc#challenge\IronCSharpChallenge\IronCSharpChallenge\bin\Debug\IronCSharpChallenge.pdb
+D:\Personal\Learning\ironc#challenge\IronCSharpChallenge\IronCSharpChallenge\obj\x86\Debug\IronCSharpChallenge.exe
+D:\Personal\Learning\ironc#challenge\IronCSharpChallenge\IronCSharpChallenge\obj\x86\Debug\IronCSharpChallenge.pdb
